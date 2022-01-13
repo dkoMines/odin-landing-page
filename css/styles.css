@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+.part1, .footer{
+    background-color: #1F2937;
+}
+.part3{
+    background-color: #e5e7eb;
+}
